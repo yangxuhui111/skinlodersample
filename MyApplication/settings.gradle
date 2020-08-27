@@ -1,0 +1,2 @@
+include ':app', ':skin_lb', ':skin'
+rootProject.name='My Application'
